@@ -1,0 +1,8 @@
+{
+	"name": "template-nodejs-server",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/kb2ateam/template-nodejs-server",
+	"author": "khoakomlem <khoakomlem@gmail.com>",
+	"license": "MIT"
+}
